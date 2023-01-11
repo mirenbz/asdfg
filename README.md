@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Paso 1: Crea una rama</h2></summary>
 
 _¡Bienvenida a "Introducción a GitHub"! :wave:_
@@ -126,7 +126,7 @@ Los siguientes pasos te guiarán en el proceso de confirmar un cambio en GitHub.
   and that the file was named correctly.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Paso 3: Abre una solicitud de extracción (pull request)</h2></summary>
 
 _Buen trabajo con ese commit_ :sparkles:
